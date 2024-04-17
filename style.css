@@ -1,0 +1,43 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+a {
+  color: deeppink;
+}
+
+img{
+  text-align: center;
+  width:400px;
+  height:300px;
+  
+}
+
+body{
+  background-color: pink;
+}
